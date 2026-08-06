@@ -1,6 +1,3 @@
--- At the Vet – Musterlösung passend zur Bootcamp-Datenbank
--- Tabellen: owners, pets, procedurehistory, proceduredetails
-
 -- 1. Anzahl Haustiere und Besitzer
 SELECT COUNT(*) AS number_of_pets FROM pets;
 SELECT COUNT(*) AS number_of_owners FROM owners;
